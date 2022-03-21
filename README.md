@@ -1,1 +1,1 @@
-movielandredux.netlify.app
+https://movielandredux.netlify.app/
